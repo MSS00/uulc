@@ -1,9 +1,0 @@
-{
-  "name": "uulc",
-  "version": "1.0.1",
-  "description": "Universal Universe Law Checker",
-  "main": "app.js",
-  "author": {
-    "name": "MrKodomoh64"
-  }
-}
