@@ -19,5 +19,4 @@ else {
     console.log('OH NOES. SOMETHING TERRIBLE HAPPENING IN YOUR UNIVERSE. RUN AS FAST AS YOU CAN.'.run);
 }
 setTimeout(() => console.log('Ok for real, just check whats behind your window. If you see nothing - run.'.check), 40000);
-setTimeout(() => console.log('Yes. To nowhere.'.check), 43000);
 process.stdin.resume();
