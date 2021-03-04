@@ -1,2 +1,0 @@
-C:\Users\MrKodomoh64\source\repos\UULC\UULC\obj\Debug\UULC.njsproj.CoreCompileInputs.cache
-C:\Users\MrKodomoh64\source\repos\UULC\UULC\bin\Microsoft.NodejsTools.WebRole.dll
