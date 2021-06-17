@@ -1,6 +1,8 @@
 # Universal Universe Law Checker
 *if the universe is ok, but programm tells you not, then either you're in matrix or it's JS issue =D*
 
+[![Project Status: Concept – Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.](https://www.repostatus.org/badges/latest/concept.svg)](https://www.repostatus.org/#concept)
+
 ## Installation
 UULC was written in VS Community 2019, so to open project:
 1. Download source code
